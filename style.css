@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+}
+
+.container {
+  max-width: 400px;
+  margin: 40px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+form input, form button {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin: 6px 0;
+}
