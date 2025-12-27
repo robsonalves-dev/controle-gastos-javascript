@@ -33,3 +33,23 @@ O sistema permite registrar despesas, calcular automaticamente o total gasto e s
 ---
 
 ## 📂 Estrutura do projeto
+controle-gastos-javascript/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+---
+
+## 📌 Possíveis melhorias futuras
+- Categorias de gastos
+- Filtro por período (mês/ano)
+- Edição de gastos
+- Gráfico de despesas
+- Layout responsivo
+- Modo escuro
+
+---
+
+👨‍💻 Projeto desenvolvido para fins de estudo e portfólio.
+
